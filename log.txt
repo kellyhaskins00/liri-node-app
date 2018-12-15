@@ -1,0 +1,159 @@
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Invalid Instruction
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Invalid Instruction
+Invalid Instruction
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Invalid Instruction
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+
+---------------------------------------------------
+
+Artist: Thunderstorm Sound Bank
+Song: Thunderstorm By The Waterfall
+Preview: https://p.scdn.co/mp3-preview/141f9b669c6a6875276962ce25f4b2d5f142d613?cid=07f2770be7e94f81a17efbf5c75aa156
+Album: Thunder & Rain Relaxation
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/15/2018
+Country: OR
+Country: United States
+
+---------------------------------------------------
+
+City: Portland
+
+---------------------------------------------------
+
+Date: 12/17/2018
+Name: Fox Theater
+City: Oakland
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/18/2018
+Name: Fox Theater
+City: Oakland
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/21/2018
+Name: Hollywood Palladium
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/30/2018
+Name: The Joint
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/31/2018
+Name: The Joint
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/04/2019
+Name: Royal Arena
+City: Copenhagen
+Name: McMenamins Crystal Ballroom
+Country: Denmark
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Spektrum
+City: Oslo
+Country: Norway
+Date: 06/05/2019
+
+---------------------------------------------------
+
+Date: 06/06/2019
+Name: Sweden Rock Festival (June 5-8)
+Country: Sweden
+City: Sölvesborg
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/07/2019
+Name: Rock Am Ring (June 7-9)
+City: Nürburg
+
+---------------------------------------------------
+
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Rock im Park (June 7-9)
+City: Nord
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/08/2019
+Date: 06/09/2019
+Name: Pinkpop Festival (June 8-10)
+City: Landgraaf
+Country: Netherlands
+
+---------------------------------------------------
+
+Invalid Instruction
+
+---------------------------------------------------
+
+Title: Batman
+Release Year: 1989
+IMDB Rating: 7.5
+Rotten Tomatoes Rating: 72%
+Language: English, French, Spanish
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+
+---------------------------------------------------
+
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+Country: USA, UK
